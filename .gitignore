@@ -1,0 +1,6 @@
+
+server/.env
+server/client_secret.json
+
+#dependance
+server/node_modules
